@@ -1,0 +1,6 @@
+termcolor
+coloredlogs
+click
+pyyaml
+six
+walrus
